@@ -1,7 +1,7 @@
 Welcome to Shopnick Ecommerce Frontend. This is version 1.0.0!
 
 <p align="center">
-  <b>This project is designed using ReactJS, Bootstrap, MaterialUI, along with Stripe and Razorpay as payment gateway. The API deployed is available on Heroku. The frontend can be found <a href='http://shopnick-react.herokuapp.com/'>here</a>.</b></br>
+  <b>This project is designed using ReactJS, Bootstrap, MaterialUI, along with Stripe and Razorpay as payment gateway. The API deployed is available on Heroku. The frontend can be found <a href='https://shopnick-react.herokuapp.com/'>here</a>.</b></br>
   <sub><sub>
 </p>
 
